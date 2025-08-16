@@ -6,6 +6,7 @@ import { data } from "../data/data";
 
 export function getAveragePlanetsTemperature(data) {
   // Your code goes here...
+  can I push and add?
 }
 
 // === TEST YOURSELF ===
