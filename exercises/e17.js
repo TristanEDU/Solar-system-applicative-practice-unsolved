@@ -10,6 +10,8 @@
 
 export function minBy(array, cb) {
   // Your code goes here...
+  let minElement = []
+
 
 }
 
